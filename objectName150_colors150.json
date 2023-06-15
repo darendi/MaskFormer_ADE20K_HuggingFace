@@ -1,0 +1,1354 @@
+{  
+  "labels": [
+    {
+      "name": "['wall']",
+      "readable": "Wall",
+      "color": [
+        120,
+        120,
+        120
+      ]
+    },
+    {
+      "name": "['building']",
+      "readable": "Building",
+      "color": [
+        180,
+        120,
+        120
+      ]
+    },
+    {
+      "name": "['sky']",
+      "readable": "Sky",
+      "color": [
+        6,
+        230,
+        230
+      ]
+    },
+    {
+      "name": "['floor']",
+      "readable": "Floor",
+      "color": [
+        80,
+        50,
+        50
+      ]
+    },
+    {
+      "name": "['tree']",
+      "readable": "Tree",
+      "color": [
+        4,
+        200,
+        3
+      ]
+    },
+    {
+      "name": "['ceiling']",
+      "readable": "Ceiling",
+      "color": [
+        120,
+        120,
+        80
+      ]
+    },
+    {
+      "name": "['road']",
+      "readable": "Road",
+      "color": [
+        140,
+        140,
+        140
+      ]
+    },
+    {
+      "name": "['bed']",
+      "readable": "Bed",
+      "color": [
+        204,
+        5,
+        255
+      ]
+    },
+    {
+      "name": "['windowpane']",
+      "readable": "Windowpane",
+      "color": [
+        230,
+        230,
+        230
+      ]
+    },
+    {
+      "name": "['grass']",
+      "readable": "Grass",
+      "color": [
+        4,
+        250,
+        7
+      ]
+    },
+    {
+      "name": "['cabinet']",
+      "readable": "Cabinet",
+      "color": [
+        224,
+        5,
+        255
+      ]
+    },
+    {
+      "name": "['sidewalk']",
+      "readable": "Sidewalk",
+      "color": [
+        235,
+        255,
+        7
+      ]
+    },
+    {
+      "name": "['person']",
+      "readable": "Person",
+      "color": [
+        150,
+        5,
+        61
+      ]
+    },
+    {
+      "name": "['earth']",
+      "readable": "Earth",
+      "color": [
+        120,
+        120,
+        70
+      ]
+    },
+    {
+      "name": "['door']",
+      "readable": "Door",
+      "color": [
+        8,
+        255,
+        51
+      ]
+    },
+    {
+      "name": "['table']",
+      "readable": "Table",
+      "color": [
+        255,
+        6,
+        82
+      ]
+    },
+    {
+      "name": "['mountain']",
+      "readable": "Mountain",
+      "color": [
+        143,
+        255,
+        140
+      ]
+    },
+    {
+      "name": "['plant']",
+      "readable": "Plant",
+      "color": [
+        204,
+        255,
+        4
+      ]
+    },
+    {
+      "name": "['curtain']",
+      "readable": "Curtain",
+      "color": [
+        255,
+        51,
+        7
+      ]
+    },
+    {
+      "name": "['chair']",
+      "readable": "Chair",
+      "color": [
+        204,
+        70,
+        3
+      ]
+    },
+    {
+      "name": "['car']",
+      "readable": "Car",
+      "color": [
+        0,
+        102,
+        200
+      ]
+    },
+    {
+      "name": "['water']",
+      "readable": "Water",
+      "color": [
+        61,
+        230,
+        250
+      ]
+    },
+    {
+      "name": "['painting']",
+      "readable": "Painting",
+      "color": [
+        255,
+        6,
+        51
+      ]
+    },
+    {
+      "name": "['sofa']",
+      "readable": "Sofa",
+      "color": [
+        11,
+        102,
+        255
+      ]
+    },
+    {
+      "name": "['shelf']",
+      "readable": "Shelf",
+      "color": [
+        255,
+        7,
+        71
+      ]
+    },
+    {
+      "name": "['house']",
+      "readable": "House",
+      "color": [
+        255,
+        9,
+        224
+      ]
+    },
+    {
+      "name": "['sea']",
+      "readable": "Sea",
+      "color": [
+        9,
+        7,
+        230
+      ]
+    },
+    {
+      "name": "['mirror']",
+      "readable": "Mirror",
+      "color": [
+        220,
+        220,
+        220
+      ]
+    },
+    {
+      "name": "['rug']",
+      "readable": "Rug",
+      "color": [
+        255,
+        9,
+        92
+      ]
+    },
+    {
+      "name": "['field']",
+      "readable": "Field",
+      "color": [
+        112,
+        9,
+        255
+      ]
+    },
+    {
+      "name": "['armchair']",
+      "readable": "Armchair",
+      "color": [
+        8,
+        255,
+        214
+      ]
+    },
+    {
+      "name": "['seat']",
+      "readable": "Seat",
+      "color": [
+        7,
+        255,
+        224
+      ]
+    },
+    {
+      "name": "['fence']",
+      "readable": "Fence",
+      "color": [
+        255,
+        184,
+        6
+      ]
+    },
+    {
+      "name": "['desk']",
+      "readable": "Desk",
+      "color": [
+        10,
+        255,
+        71
+      ]
+    },
+    {
+      "name": "['rock']",
+      "readable": "Rock",
+      "color": [
+        255,
+        41,
+        10
+      ]
+    },
+    {
+      "name": "['wardrobe']",
+      "readable": "Wardrobe",
+      "color": [
+        7,
+        255,
+        255
+      ]
+    },
+    {
+      "name": "['lamp']",
+      "readable": "Lamp",
+      "color": [
+        224,
+        255,
+        8
+      ]
+    },
+    {
+      "name": "['bathtub']",
+      "readable": "Bathtub",
+      "color": [
+        102,
+        8,
+        255
+      ]
+    },
+    {
+      "name": "['railing']",
+      "readable": "Railing",
+      "color": [
+        255,
+        61,
+        6
+      ]
+    },
+    {
+      "name": "['cushion']",
+      "readable": "Cushion",
+      "color": [
+        255,
+        194,
+        7
+      ]
+    },
+    {
+      "name": "['base']",
+      "readable": "Base",
+      "color": [
+        255,
+        122,
+        8
+      ]
+    },
+    {
+      "name": "['box']",
+      "readable": "Box",
+      "color": [
+        0,
+        255,
+        20
+      ]
+    },
+    {
+      "name": "['column']",
+      "readable": "Column",
+      "color": [
+        255,
+        8,
+        41
+      ]
+    },
+    {
+      "name": "['signboard']",
+      "readable": "Signboard",
+      "color": [
+        255,
+        5,
+        153
+      ]
+    },
+    {
+      "name": "['chest of drawers']",
+      "readable": "Chest Of Drawers",
+      "color": [
+        6,
+        51,
+        255
+      ]
+    },
+    {
+      "name": "['counter']",
+      "readable": "Counter",
+      "color": [
+        235,
+        12,
+        255
+      ]
+    },
+    {
+      "name": "['sand']",
+      "readable": "Sand",
+      "color": [
+        160,
+        150,
+        20
+      ]
+    },
+    {
+      "name": "['sink']",
+      "readable": "Sink",
+      "color": [
+        0,
+        163,
+        255
+      ]
+    },
+    {
+      "name": "['skyscraper']",
+      "readable": "Skyscraper",
+      "color": [
+        140,
+        140,
+        140
+      ]
+    },
+    {
+      "name": "['fireplace']",
+      "readable": "Fireplace",
+      "color": [
+        250,
+        10,
+        15
+      ]
+    },
+    {
+      "name": "['refrigerator']",
+      "readable": "Refrigerator",
+      "color": [
+        20,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['grandstand']",
+      "readable": "Grandstand",
+      "color": [
+        31,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['path']",
+      "readable": "Path",
+      "color": [
+        255,
+        31,
+        0
+      ]
+    },
+    {
+      "name": "['stairs']",
+      "readable": "Stairs",
+      "color": [
+        255,
+        224,
+        0
+      ]
+    },
+    {
+      "name": "['runway']",
+      "readable": "Runway",
+      "color": [
+        153,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['case']",
+      "readable": "Case",
+      "color": [
+        0,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['pool table']",
+      "readable": "Pool Table",
+      "color": [
+        255,
+        71,
+        0
+      ]
+    },
+    {
+      "name": "['pillow']",
+      "readable": "Pillow",
+      "color": [
+        0,
+        235,
+        255
+      ]
+    },
+    {
+      "name": "['screen door']",
+      "readable": "Screen Door",
+      "color": [
+        0,
+        173,
+        255
+      ]
+    },
+    {
+      "name": "['stairway']",
+      "readable": "Stairway",
+      "color": [
+        31,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['river']",
+      "readable": "River",
+      "color": [
+        11,
+        200,
+        200
+      ]
+    },
+    {
+      "name": "['bridge']",
+      "readable": "Bridge",
+      "color": [
+        255,
+        82,
+        0
+      ]
+    },
+    {
+      "name": "['bookcase']",
+      "readable": "Bookcase",
+      "color": [
+        0,
+        255,
+        245
+      ]
+    },
+    {
+      "name": "['blind']",
+      "readable": "Blind",
+      "color": [
+        0,
+        61,
+        255
+      ]
+    },
+    {
+      "name": "['coffee table']",
+      "readable": "Coffee Table",
+      "color": [
+        0,
+        255,
+        112
+      ]
+    },
+    {
+      "name": "['toilet']",
+      "readable": "Toilet",
+      "color": [
+        0,
+        255,
+        133
+      ]
+    },
+    {
+      "name": "['flower']",
+      "readable": "Flower",
+      "color": [
+        255,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "['book']",
+      "readable": "Book",
+      "color": [
+        255,
+        163,
+        0
+      ]
+    },
+    {
+      "name": "['hill']",
+      "readable": "Hill",
+      "color": [
+        255,
+        102,
+        0
+      ]
+    },
+    {
+      "name": "['bench']",
+      "readable": "Bench",
+      "color": [
+        194,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['countertop']",
+      "readable": "Countertop",
+      "color": [
+        0,
+        143,
+        255
+      ]
+    },
+    {
+      "name": "['stove']",
+      "readable": "Stove",
+      "color": [
+        51,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['palm']",
+      "readable": "Palm",
+      "color": [
+        0,
+        82,
+        255
+      ]
+    },
+    {
+      "name": "['kitchen island']",
+      "readable": "Kitchen Island",
+      "color": [
+        0,
+        255,
+        41
+      ]
+    },
+    {
+      "name": "['computer']",
+      "readable": "Computer",
+      "color": [
+        0,
+        255,
+        173
+      ]
+    },
+    {
+      "name": "['swivel chair']",
+      "readable": "Swivel Chair",
+      "color": [
+        10,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['boat']",
+      "readable": "Boat",
+      "color": [
+        173,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['bar']",
+      "readable": "Bar",
+      "color": [
+        0,
+        255,
+        153
+      ]
+    },
+    {
+      "name": "['arcade machine']",
+      "readable": "Arcade Machine",
+      "color": [
+        255,
+        92,
+        0
+      ]
+    },
+    {
+      "name": "['hovel']",
+      "readable": "Hovel",
+      "color": [
+        255,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['bus']",
+      "readable": "Bus",
+      "color": [
+        255,
+        0,
+        245
+      ]
+    },
+    {
+      "name": "['towel']",
+      "readable": "Towel",
+      "color": [
+        255,
+        0,
+        102
+      ]
+    },
+    {
+      "name": "['light']",
+      "readable": "Light",
+      "color": [
+        255,
+        173,
+        0
+      ]
+    },
+    {
+      "name": "['truck']",
+      "readable": "Truck",
+      "color": [
+        255,
+        0,
+        20
+      ]
+    },
+    {
+      "name": "['tower']",
+      "readable": "Tower",
+      "color": [
+        255,
+        184,
+        184
+      ]
+    },
+    {
+      "name": "['chandelier']",
+      "readable": "Chandelier",
+      "color": [
+        0,
+        31,
+        255
+      ]
+    },
+    {
+      "name": "['awning']",
+      "readable": "Awning",
+      "color": [
+        0,
+        255,
+        61
+      ]
+    },
+    {
+      "name": "['streetlight']",
+      "readable": "Streetlight",
+      "color": [
+        0,
+        71,
+        255
+      ]
+    },
+    {
+      "name": "['booth']",
+      "readable": "Booth",
+      "color": [
+        255,
+        0,
+        204
+      ]
+    },
+    {
+      "name": "['television']",
+      "readable": "Television",
+      "color": [
+        0,
+        255,
+        194
+      ]
+    },
+    {
+      "name": "['airplane']",
+      "readable": "Airplane",
+      "color": [
+        0,
+        255,
+        82
+      ]
+    },
+    {
+      "name": "['dirt track']",
+      "readable": "Dirt Track",
+      "color": [
+        0,
+        10,
+        255
+      ]
+    },
+    {
+      "name": "['apparel']",
+      "readable": "Apparel",
+      "color": [
+        0,
+        112,
+        255
+      ]
+    },
+    {
+      "name": "['pole']",
+      "readable": "Pole",
+      "color": [
+        51,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['land']",
+      "readable": "Land",
+      "color": [
+        0,
+        194,
+        255
+      ]
+    },
+    {
+      "name": "['bannister']",
+      "readable": "Bannister",
+      "color": [
+        0,
+        122,
+        255
+      ]
+    },
+    {
+      "name": "['escalator']",
+      "readable": "Escalator",
+      "color": [
+        0,
+        255,
+        163
+      ]
+    },
+    {
+      "name": "['ottoman']",
+      "readable": "Ottoman",
+      "color": [
+        255,
+        153,
+        0
+      ]
+    },
+    {
+      "name": "['bottle']",
+      "readable": "Bottle",
+      "color": [
+        0,
+        255,
+        10
+      ]
+    },
+    {
+      "name": "['buffet']",
+      "readable": "Buffet",
+      "color": [
+        255,
+        112,
+        0
+      ]
+    },
+    {
+      "name": "['poster']",
+      "readable": "Poster",
+      "color": [
+        143,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['stage']",
+      "readable": "Stage",
+      "color": [
+        82,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['van']",
+      "readable": "Van",
+      "color": [
+        163,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['ship']",
+      "readable": "Ship",
+      "color": [
+        255,
+        235,
+        0
+      ]
+    },
+    {
+      "name": "['fountain']",
+      "readable": "Fountain",
+      "color": [
+        8,
+        184,
+        170
+      ]
+    },
+    {
+      "name": "['conveyer belt']",
+      "readable": "Conveyer Belt",
+      "color": [
+        133,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['canopy']",
+      "readable": "Canopy",
+      "color": [
+        0,
+        255,
+        92
+      ]
+    },
+    {
+      "name": "['washer']",
+      "readable": "Washer",
+      "color": [
+        184,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['plaything']",
+      "readable": "Plaything",
+      "color": [
+        255,
+        0,
+        31
+      ]
+    },
+    {
+      "name": "['swimming pool']",
+      "readable": "Swimming Pool",
+      "color": [
+        0,
+        184,
+        255
+      ]
+    },
+    {
+      "name": "['stool']",
+      "readable": "Stool",
+      "color": [
+        0,
+        214,
+        255
+      ]
+    },
+    {
+      "name": "['barrel']",
+      "readable": "Barrel",
+      "color": [
+        255,
+        0,
+        112
+      ]
+    },
+    {
+      "name": "['basket']",
+      "readable": "Basket",
+      "color": [
+        92,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['waterfall']",
+      "readable": "Waterfall",
+      "color": [
+        0,
+        224,
+        255
+      ]
+    },
+    {
+      "name": "['tent']",
+      "readable": "Tent",
+      "color": [
+        112,
+        224,
+        255
+      ]
+    },
+    {
+      "name": "['bag']",
+      "readable": "Bag",
+      "color": [
+        70,
+        184,
+        160
+      ]
+    },
+    {
+      "name": "['minibike']",
+      "readable": "Minibike",
+      "color": [
+        163,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['cradle']",
+      "readable": "Cradle",
+      "color": [
+        153,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['oven']",
+      "readable": "Oven",
+      "color": [
+        71,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['ball']",
+      "readable": "Ball",
+      "color": [
+        255,
+        0,
+        163
+      ]
+    },
+    {
+      "name": "['food']",
+      "readable": "Food",
+      "color": [
+        255,
+        204,
+        0
+      ]
+    },
+    {
+      "name": "['step']",
+      "readable": "Step",
+      "color": [
+        255,
+        0,
+        143
+      ]
+    },
+    {
+      "name": "['tank']",
+      "readable": "Tank",
+      "color": [
+        0,
+        255,
+        235
+      ]
+    },
+    {
+      "name": "['trade name']",
+      "readable": "Trade Name",
+      "color": [
+        133,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['microwave']",
+      "readable": "Microwave",
+      "color": [
+        255,
+        0,
+        235
+      ]
+    },
+    {
+      "name": "['pot']",
+      "readable": "Pot",
+      "color": [
+        245,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['animal']",
+      "readable": "Animal",
+      "color": [
+        255,
+        0,
+        122
+      ]
+    },
+    {
+      "name": "['bicycle']",
+      "readable": "Bicycle",
+      "color": [
+        255,
+        245,
+        0
+      ]
+    },
+    {
+      "name": "['lake']",
+      "readable": "Lake",
+      "color": [
+        10,
+        190,
+        212
+      ]
+    },
+    {
+      "name": "['dishwasher']",
+      "readable": "Dishwasher",
+      "color": [
+        214,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['screen']",
+      "readable": "Screen",
+      "color": [
+        0,
+        204,
+        255
+      ]
+    },
+    {
+      "name": "['blanket']",
+      "readable": "Blanket",
+      "color": [
+        20,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['sculpture']",
+      "readable": "Sculpture",
+      "color": [
+        255,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['hood']",
+      "readable": "Hood",
+      "color": [
+        0,
+        153,
+        255
+      ]
+    },
+    {
+      "name": "['sconce']",
+      "readable": "Sconce",
+      "color": [
+        0,
+        41,
+        255
+      ]
+    },
+    {
+      "name": "['vase']",
+      "readable": "Vase",
+      "color": [
+        0,
+        255,
+        204
+      ]
+    },
+    {
+      "name": "['traffic light']",
+      "readable": "Traffic Light",
+      "color": [
+        41,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['tray']",
+      "readable": "Tray",
+      "color": [
+        41,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['ashcan']",
+      "readable": "Ashcan",
+      "color": [
+        173,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['fan']",
+      "readable": "Fan",
+      "color": [
+        0,
+        245,
+        255
+      ]
+    },
+    {
+      "name": "['pier']",
+      "readable": "Pier",
+      "color": [
+        71,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['crt screen']",
+      "readable": "Crt Screen",
+      "color": [
+        122,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "['plate']",
+      "readable": "Plate",
+      "color": [
+        0,
+        255,
+        184
+      ]
+    },
+    {
+      "name": "['monitor']",
+      "readable": "Monitor",
+      "color": [
+        0,
+        92,
+        255
+      ]
+    },
+    {
+      "name": "['bulletin board']",
+      "readable": "Bulletin Board",
+      "color": [
+        184,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['shower']",
+      "readable": "Shower",
+      "color": [
+        0,
+        133,
+        255
+      ]
+    },
+    {
+      "name": "['radiator']",
+      "readable": "Radiator",
+      "color": [
+        255,
+        214,
+        0
+      ]
+    },
+    {
+      "name": "['glass']",
+      "readable": "Glass",
+      "color": [
+        25,
+        194,
+        194
+      ]
+    },
+    {
+      "name": "['clock']",
+      "readable": "Clock",
+      "color": [
+        102,
+        255,
+        0
+      ]
+    },
+    {
+      "name": "['flag']",
+      "readable": "Flag",
+      "color": [
+        92,
+        0,
+        255
+      ]
+    }
+  ]
+}
